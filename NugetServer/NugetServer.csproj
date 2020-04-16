@@ -142,7 +142,6 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
-    <Content Include="WebOld.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Packages\Readme.txt" />
